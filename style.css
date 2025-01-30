@@ -33,6 +33,10 @@ header ul li{
     padding-bottom: 20px;
 }
 
+a{
+    color: #58699D;
+}
+
 header ul li:hover{
     color: #2A324B;
     background-color: #fff;
